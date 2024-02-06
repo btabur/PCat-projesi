@@ -3,8 +3,10 @@ const fs = require('fs');
 
 exports.getAllPhotos = async (req, res) => {
 
-  ALoLncaY67v7yoBh
-  btabur0323
+  // z5MYdU1qn7YEWimq
+  // btabur0323
+
+  //0396
 
   const page = req.query.page || 1;
   const photosPerPage = 3;
